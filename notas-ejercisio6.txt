@@ -1,0 +1,2 @@
+siempre que se trabajen con turnos la simulacion se debe correr bajo un calendario
+a la sigiuente locacion cuando se queire intercalar se le debe selecion en rules by type 
